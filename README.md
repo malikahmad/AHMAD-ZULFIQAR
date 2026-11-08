@@ -97,8 +97,8 @@ Explore my repositories for source code, experiments, and project documentation.
 I'm interested in AI/ML engineering, applied research, and building useful intelligent products.
 
 - **GitHub:** [@malikahmad](https://github.com/malikahmad)
-- **LinkedIn:** [Ahmad Zulfiqar](https://www.linkedin.com/in/malik-ahmad-06abb31a1/)
-- **Portfolio:** [malikahmad0034.netlify.app](https://malikahmad0034.netlify.app)
+- **LinkedIn:** [Ahmad Zulfiqar](https://www.linkedin.com/in/ahmad-zulfiqar-06abb31a4/)
+- **Portfolio:** [ Ahmad Zulfiqar | AI/ML Engineer ](https://ahmadlabs.netlify.app/)
 
 ---
 
